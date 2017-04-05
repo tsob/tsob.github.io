@@ -1,0 +1,21 @@
+/* Dark blue color from theme: 11161e */
+.navbar-inverse {
+  background-color: #11161e;
+  background-image: None;
+}
+
+#ccrma_logo {
+  height: 30px;
+}
+
+.navbar-nav>li>a {
+  font-size: 26px;
+  line-height: 64px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.navbar-brand {
+  height: 64px;
+  padding: 7px 15px;
+}
